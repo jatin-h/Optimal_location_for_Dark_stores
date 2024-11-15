@@ -4,5 +4,5 @@
 - The images of some examples we ran are also present
 
 ![Sample Image](20nodes3clusters.png)
-![Sample Image](15nodes2clucters.png)
-![Sample Image](12nodes4clucters.png)
+![Sample Image](15nodes2clusters.png)
+![Sample Image](12nodes4clusters.png)
